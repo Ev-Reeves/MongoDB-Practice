@@ -1,2 +1,2 @@
 # MongoDB-Practice
-Some practice in MongoDB based on a homework assignment
+Some practice in SQL based on a homework assignment
